@@ -1,0 +1,14 @@
+.sidemenu-container {
+    display: grid;
+    grid-template-columns: 25%;
+    background-color: #53565A;
+    padding: 10px;
+
+    grid-column: 1;
+  }
+  .sidemenu-content {
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }

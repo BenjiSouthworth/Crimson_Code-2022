@@ -1,0 +1,5 @@
+.main-content {
+    grid-column: 2;
+    text-align: left;
+    border: 3px solid blue;
+  }

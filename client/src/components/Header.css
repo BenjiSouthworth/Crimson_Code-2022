@@ -1,15 +1,14 @@
 .header-container {
-    display: grid;
-    grid-template-columns: auto;
-    background-color: #981E32;
-    padding: 10px;
+  display: grid;
+  grid-template-columns: auto;
+  background-color: #981e32;
+  padding: 10px;
 
-    grid-column: 1 /3;
-  }
-  .header-content {
-    color: white;
-    padding: 20px;
-    font-size: 30px;
-    text-align: center;
-  }
-  
+  grid-column: 1 / 3;
+}
+.header-content {
+  color: white;
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}

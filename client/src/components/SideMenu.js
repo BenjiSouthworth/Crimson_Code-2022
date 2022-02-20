@@ -1,10 +1,11 @@
 import React from 'react';
 import './SideMenu.css'
+import YearBtn from './YearBtn';
 
 const SideMenu = () => {
     return (
-        <div class="sidemenu-container">
-            <div class="header-content">Side Menu</div>
+        <div className="sidemenu-container">
+            <YearBtn />
         </div>
     )
 }
